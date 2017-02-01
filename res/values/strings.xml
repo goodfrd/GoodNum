@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GoodNumActivity!</string>
+    <string name="app_name">吉祥号码计算器 V1.0</string>
+    <string name="text_input">请输入号码后4位：</string>
+    <string name="text_ok">确定</string>
+    <string name="text_quit">退出</string>
+    <string name="result">计算结果</string>
+    <string name="hint">请输入号码右四位数字</string>
+
+</resources>
